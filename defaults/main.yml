@@ -1,0 +1,4 @@
+---
+# defaults file for gittest
+name: git
+git_state: present
